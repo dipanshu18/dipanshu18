@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=||%20He/Him%20|%20Student%20|%20India%20%20||&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=||%20He/him%20|%20Student%20|%20India%20%20||&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" />
 
 #### I’m currently learning DevOps & Web Development and love making music.
 
