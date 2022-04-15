@@ -41,7 +41,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu18&theme=highcontrast" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=dipanshu18&theme=react-dark&hide_border=true)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=dipanshu18&theme=react-dark&hide_border=true) -->
 
 <!--
 **dipanshu18/dipanshu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
