@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=||%20He/him%20|%20Student%20|%20India%20%20||&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=%20He/him%20|%20India%20%20&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" />
 
-#### Always fascinated with learning new things everyday and love cats😻.
+## Always fascinated with learning new things everyday and love cats😻.
 
 ### Connect with me:-
 <a href="https://www.linkedin.com/in/dipanshu-torawane">
@@ -37,6 +37,7 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipanshu18&show_icons=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu18&theme=highcontrast" />
 </p>
+
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=dipanshu18&theme=react-dark&hide_border=true) -->
 
