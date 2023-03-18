@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=%20He/him%20|%20India%20%20&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=%20He/him%20|%20India%20%20&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" /> -->
 
 ![1679160588984](https://user-images.githubusercontent.com/88198352/226123258-a65daf82-fe2e-4236-88a5-8b9c419814c5.jpg)
 
