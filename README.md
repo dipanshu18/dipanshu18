@@ -2,7 +2,9 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Dipanshu%20Torawane%20&fontAlignY=35&desc=%20He/him%20|%20India%20%20&descAlign=50&descAlignY=60" alt="Dipanshu Torawane" width="1500" /> -->
 
-![1679160588984](https://user-images.githubusercontent.com/88198352/226123258-a65daf82-fe2e-4236-88a5-8b9c419814c5.jpg)
+
+![Dipanshu LinkedIn Banner](https://user-images.githubusercontent.com/88198352/226803318-a02e8b24-01b0-419c-ab9e-74b0657fbd87.jpg)
+
 
 Aspiring Full Stack Developer passionate about learning and applying the latest web technologies. I am currently honing my skills in HTML, CSS, JavaScript, Vue, React, Node.js, Express.js, Python, Django, PostgreSQL and MongoDB, and excited to leverage these skills to create dynamic and user-friendly web applications with a strong foundation and a commitment to continuous learning. I'm always keen to expand my knowledge and gain new skills.
 
