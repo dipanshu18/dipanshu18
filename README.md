@@ -2,7 +2,7 @@
 
 • I am a Full Stack Developer primarily focusing on creating dynamic, user-friendly web applications. 
 
-• I use tools like JavaScript, React.js for frontend and Node.js, Express.js or Python, and PostgreSQL/MongoDB for the backend.
+• I use tools like Python, JavaScript, React.js for the front end and Node.js, Express.js, and PostgreSQL/MongoDB for the backend.
 
 • Let's connect and discuss how I can contribute. Reach out to me to create something great together.
 
