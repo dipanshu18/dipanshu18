@@ -1,11 +1,5 @@
 # Hi there 👋 
 
-• I am a Full Stack Developer primarily focusing on creating dynamic, user-friendly web applications. 
-
-• I use tools like Python, JavaScript, React.js for the front end and Node.js, Express.js, and PostgreSQL/MongoDB for the backend.
-
-• Let's connect and discuss how I can contribute. Reach out to me to create something great together.
-
 <a href="https://www.linkedin.com/in/dipanshu-torawane">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
